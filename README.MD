@@ -1,26 +1,24 @@
-<!-- profile view count -->
-<img align="right" src="https://komarev.com/ghpvc/?username=sanidhyy">
-
 <!-- introduction -->
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;+Myself+Sanidhya!;&center=true&font=Righteous&size=35">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;+Myself+Mohammed Ashiq!;&center=true&font=Righteous&size=35">
   </a>
 </h1>
 
 <br />
-<!-- about me -->
-<p align="center">
-  Hi, I'm Sanidhya Kumar Verma, Web Developer/Coder 💻,  Learner 👨‍💻 &  gamer 🦸‍♂️ from India 🇮🇳.
-  <br />
-  <br />
-  🎓 Currently a high school student.
-  <br />
-  💻 I love to learn new technologies and frameworks.
-  <br />
-  🧑‍💼 I’m currently a freelancer working as a Next.js developer.
-  <br />
-</p>
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!-- 🖥️ TERMINAL INTRO SECTION                                                   -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+  <img src="./assets/terminal-intro.jpeg" alt="Terminal Introduction" width="650"/>
+</div>
+
+<br/>
+
+<img src="./assets/divider.svg" width="100%"/>
+
+<br/>
 
 <!-- social handles -->
 <div align="center"> 
@@ -56,22 +54,6 @@
 </p>
 <br />
 
-<!-- deployment -->
-<h3 align="center">Deployment</h3>
-<p align="center">
-  <a href="https://skillicons.dev">
-      <picture>
-          <source media="(prefers-color-scheme: dark)" srcset='https://skillicons.dev/icons?i=planetscale%2Cvercel%2Cnetlify&theme=dark' />
-          <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset='https://skillicons.dev/icons?i=planetscale%2Cvercel%2Cnetlify&theme=light' />
-          <img src='https://skillicons.dev/icons?i=planetscale%2Cvercel%2Cnetlify' alt="learning" />
-        </picture>
-  </a>
-<br />
-<a href="https://www.logalert.app">
-  <img src='https://img.shields.io/badge/Log-Alert-ca3e54?labelColor=5512ca&style=for-the-badge' alt="learning" />
-</a>
-</p>
-<hr />
 
 <!-- repositories -->
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
